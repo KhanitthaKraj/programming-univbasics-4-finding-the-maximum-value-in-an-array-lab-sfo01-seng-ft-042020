@@ -4,4 +4,5 @@ def find_max_value(array)
     sorted = array.sort
     sorted.last
   end
+  
 end
