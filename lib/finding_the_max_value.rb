@@ -5,4 +5,5 @@ def find_max_value(array)
     sorted.last
     counter += 1
   end
+  sorted
 end
